@@ -19,6 +19,7 @@ app.get('/restaurants', async (req, res) => {
       restaurants: 'Mcdonalds',
     },
   });
+
 });
 
 // Get specific restaurant
